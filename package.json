@@ -4,7 +4,7 @@
 	"description": "GSAP3 code snippets for VSCode",
 	"version": "0.0.1",
 	"publisher": "ihatetomatoes",
-    "icon": "./images/img_gsap.png",
+    "icon": "images/img_gsap.png",
 	"engines": {
 		"vscode": "^1.28.0"
 	},
