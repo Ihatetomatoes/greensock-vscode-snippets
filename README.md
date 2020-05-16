@@ -4,6 +4,10 @@ This extension provides you GreenSock snippets for VS Code.
 
 Save time typing, enjoy tweening.
 
+## Preview
+
+![snippets in action](images/greensock-snippets.gif)
+
 ## Usage
 
 | Prefix       | Outcome           | 
