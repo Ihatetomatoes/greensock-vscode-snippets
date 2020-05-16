@@ -13,3 +13,4 @@ Save time typing, enjoy tweening.
 | `.from`      | `.from(selector, { duration: 1, vars })` |
 | `.fromTo`      | `.fromTo(selector, { vars }, {duration: 1, vars })` |
 | `.set`      | `.set(selector, { vars })` |
+| `tl`      | `const tl = gsap.timeline({ tlVars })` |
